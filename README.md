@@ -3,9 +3,10 @@ This is the module that is used for my public bot on Discord. It features most o
 For use with Discord, please refer to "Placeholder - will add bot link later".
 
 ## Requirements
-- Python 3.6+
-- aiohttp
-- asyncio
+- [Python 3.6+](https://www.python.org/downloads/)
+- [aiohttp](https://pypi.org/project/aiohttp/)
+- [asyncio](https://pypi.org/project/asyncio/)
+- [Bungie.net API key](https://github.com/Bungie-net/api/wiki/Bungie.net-Application-Portal)
 
 ## Credits
 - Bungie Developers, for creating a free to use API - [Link](https://github.com/Bungie-net/api)
